@@ -33,7 +33,7 @@ $ yarn
 $ yarn dev
 ```
 
-- Abrir o [http://localhost:5173/](http://localhost:5173/) no navegador
+- Abrir o [http://localhost:5173/](http://localhost:5173/) no navegador.
 
 ## Funcionalidades
 
@@ -47,11 +47,23 @@ $ yarn dev
 ---
 
 <a>
- <sub><b>Lorena Borges</b></sub></a>
+ <sub><b>Hero Code</b></sub>
+</a> <br>
+<a href="https://herocode.com.br/hero-pro/?utm_source=herocode&utm_medium=home_site" style="color: #ffffff">Acessar Site</a>
+<br>
+<br>
+
+<a>
+ <sub><b>Lorena Borges</b></sub>
+</a>
 
 Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lorena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorenadasilvaborges/)](https://www.linkedin.com/in/lorenadasilvaborges/)
 [![Gmail Badge](https://img.shields.io/badge/-sborges.lorena@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sborges.lorena@gmail.com)](mailto:sborges.lorena@gmail.com)
 
+<br>
+
+```
 🚧 Em construção 🚧
+```
