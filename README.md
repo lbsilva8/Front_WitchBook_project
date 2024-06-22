@@ -48,10 +48,9 @@ $ yarn dev
 
 <a>
  <sub><b>Hero Code</b></sub>
-</a> <br>
-<a href="https://herocode.com.br/hero-pro/?utm_source=herocode&utm_medium=home_site" style="color: #ffffff">Acessar Site</a>
-<br>
-<br>
+</a>
+
+[![Static Badge](https://img.shields.io/badge/Acessar%20Site-4F4F4F?style=flat-square)](https://herocode.com.br/hero-pro/?utm_source=herocode&utm_medium=home_site)
 
 <a>
  <sub><b>Lorena Borges</b></sub>
